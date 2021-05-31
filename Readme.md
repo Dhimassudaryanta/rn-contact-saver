@@ -8,7 +8,7 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-![text](screenshoot/screenshoot.gif |width="50%")
+![text](screenshoot/screenshoot.gif width="50%")
 
 
 How to run this project :
