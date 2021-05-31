@@ -8,7 +8,7 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-![text](./screenshot/screenshoot.gif)
+![text](screenshoot/screenshoot.gif)
 
 
 How to run this project :
