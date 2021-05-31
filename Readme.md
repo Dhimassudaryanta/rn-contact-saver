@@ -8,8 +8,16 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-<img src="screenshoot/screenshoot.gif" width="250">
+<img src="screenshoot/screenshoot.gif" width="300">
 
+## Dependencies
+- React Native
+- React Native Elements for UI Elements
+- NativeBase for UI Elements
+- Redux for State Management
+- Redux Thunk
+- React Navigation
+- Contact API
 
 How to run this project :
 
