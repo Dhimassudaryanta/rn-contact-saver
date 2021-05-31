@@ -8,7 +8,7 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-![android-demo](./screenshot/screenshoot.gif)
+![text](./screenshot/screenshoot.gif)
 
 
 How to run this project :
