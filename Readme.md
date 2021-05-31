@@ -1,13 +1,15 @@
 # Getting Started with React Native
 
-## Available Scripts
-
 I am using Expo Go (playstore app) to run this App 
 
 Here is the full documentation
 ``` 
 https://docs.expo.io/bare/using-expo-client/
 ``` 
+## Preview - 
+
+![android-demo](./screenshot/screenshoot.gif)
+
 
 How to run this project :
 
