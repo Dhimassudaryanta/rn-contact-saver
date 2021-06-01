@@ -23,9 +23,9 @@ How to run this project :
 1. Clone this repo via terminal / download zip file
 
 ``` 
-$ git clone git@github.com:Dhimassudaryanta/rn-mobile-app-test.git
+$ git clone git@github.com:Dhimassudaryanta/rn-contact-saver.git
 
-$ cd rn-mobile-app-test
+$ cd rn-contact-saver
 
 $ npm install
 ```
