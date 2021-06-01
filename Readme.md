@@ -17,7 +17,7 @@ https://docs.expo.io/bare/using-expo-client/
 - Redux for State Management
 - Redux Thunk
 - React Navigation
-- Contact web service API
+- Axios
 
 How to run this project :
 
